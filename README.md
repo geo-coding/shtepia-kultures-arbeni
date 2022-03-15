@@ -25,8 +25,8 @@ For electrical installations,
 the symbols of the SEV are
 applicable
 
-##Basic and general symbols
-###1Basic symbols
+## Basic and general symbols
+### 1Basic symbols
 1 11 Pipes (gypat)
 1 12 Ducts (kanalet)
 1 13 Control valves Stop valves (i.e. gate valves butterfly valves)
