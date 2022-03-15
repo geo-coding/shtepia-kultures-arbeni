@@ -71,8 +71,10 @@ kodi i ngjyrave i përdorur në industri
 10a. tub i izoluar
 10b. tub i paizoluar
 11. Tracer-heated pipe
+11. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GSsCCQqcpGtL7GK0FrA7NZ9d6LORI-d67CLQ2xRYy0EQXA0-X3If0RLUWfQ4ELHRwQ&usqp=CAU
 11. Tub i ngrohur me gjurmues (kabllo per te mos lejuar ngrirjen e gypit)
 12. Pipe with heating or cooling jacket
+12. https://www.researchgate.net/profile/Chan-Bae-Park/publication/264187791/figure/fig7/AS:668225658445832@1536328820422/Water-cooling-jackets-for-110kW-class-IPMSM.jpg
 12. Tub me mbeshtjelles ngrohjeje ose ftohjeje
 #### PIPE SHOWN IN PLAN
 #### tubi i paraqitur ne plan
