@@ -30,8 +30,9 @@ applicable
 1 11 Pipes (gypat)
 1 12 Ducts (kanalet)
 1 12 https://images.squarespace-cdn.com/content/v1/5e7314db0444d414213d9c38/1600453257853-9XJK3PSPMEHH2R58JGX6/Motorised+damper+symbol?format=500
-https://www.mccshvac.com/site/wp-content/uploads/air-ducts-1.jpgw
+https://www.mccshvac.com/site/wp-content/uploads/air-ducts-1.jpg
 1 13 Control valves Stop valves (i.e. gate valves butterfly valves)
+https://www.zetkama.com/wp-content/uploads/217_1-1.jpg
 ^1 13 Valvulat e kontrollit Valvulat e ndalimit (p.sh. valvulat e portës, valvulat flutur)
 1 14 Apparatus(without rotating parts)
 ^1 14 Aparat (pa pjesë rrotulluese)
