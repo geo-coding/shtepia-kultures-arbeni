@@ -50,9 +50,9 @@ ose në vijë
 left)
 2. Përmbajtja e tubit: metoda B: përcaktimi me vija të ndryshme (shembuj në
 majtas)
-3. Contents of pipe: method C: designation by coloured\* lines according to the
+3. Contents of pipe: method C: designation by coloured (x) lines according to the
 colour-code used in the industry
-3. Përmbajtja e tubit: metoda C: përcaktimi me vija\* me ngjyra sipas
+3. Përmbajtja e tubit: metoda C: përcaktimi me vija(X) me ngjyra sipas
 kodi i ngjyrave i përdorur në industri
 4. Direction of flow (arrow)
 4. drejtimi i rrjedhjes (strella)
