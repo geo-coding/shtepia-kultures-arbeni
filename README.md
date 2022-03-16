@@ -87,6 +87,7 @@ kodi i ngjyrave i përdorur në industri
 https://www.burkert.com/var/harmony/storage/images/imagefull/B/B/S/2732704-BBS06-001-A-Aseptic-FlangeDIN11864_thumb_imagefull.png?v=
 2. lidhje me fllanzh
 3. stop flange
+https://5.imimg.com/data5/SELLER/Default/2021/5/FN/OC/SG/4961284/hdpe-stop-flange-500x500.JPG
 3. flanzha ndaluese (jo kthyese)
 4. Screwed connection, unron
 4. Lidhje me vidhos, unron (me shtraf)
