@@ -93,6 +93,7 @@ https://5.imimg.com/data5/SELLER/Default/2021/5/FN/OC/SG/4961284/hdpe-stop-flang
 https://www.schwer.com/dynimg/LSBoUAwXOYBVDCvxDghiLNL458s=/0x0:0x0/full-fit-in/580x580/filters:no_upscale():cachevalid(2014-03-06T10:23:57)/Documents/Produktbilder/PB_MI/MI-Miro.jpg
 4. Lidhje me vidhos, unron (me shtraf)
 5. Pipe coupling
+https://www.epowermetals.com/wp-content/uploads/2019/09/pipe-coupling.jpg
 5. Bashkim tubash (me shtraf te hapur tub)
 6. Centric reduction
 6. reduktues kryesore
