@@ -90,6 +90,7 @@ https://www.burkert.com/var/harmony/storage/images/imagefull/B/B/S/2732704-BBS06
 https://5.imimg.com/data5/SELLER/Default/2021/5/FN/OC/SG/4961284/hdpe-stop-flange-500x500.JPG
 3. flanzha ndaluese (jo kthyese)
 4. Screwed connection, unron
+https://www.schwer.com/dynimg/LSBoUAwXOYBVDCvxDghiLNL458s=/0x0:0x0/full-fit-in/580x580/filters:no_upscale():cachevalid(2014-03-06T10:23:57)/Documents/Produktbilder/PB_MI/MI-Miro.jpg
 4. Lidhje me vidhos, unron (me shtraf)
 5. Pipe coupling
 5. Bashkim tubash (me shtraf te hapur tub)
