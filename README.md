@@ -35,8 +35,10 @@ https://www.mccshvac.com/site/wp-content/uploads/air-ducts-1.jpg
 https://www.zetkama.com/wp-content/uploads/217_1-1.jpg
 ^1 13 Valvulat e kontrollit Valvulat e ndalimit (p.sh. valvulat e portës, valvulat flutur)
 1 14 Apparatus(without rotating parts)
+https://cdn.raptorsupplies.com/pub/media/catalog/product/marathon-motors-5kh32gn140x.jpg
 ^1 14 Aparat (pa pjesë rrotulluese)
 1 15 Apparatus(with  rotating parts)
+https://www.researchgate.net/profile/Stefania-Serafin/publication/228962554/figure/fig2/AS:669464844570635@1536624265570/The-apparatus-used-in-1-to-measure-tubes-frequencies-and-rotational-velocity.png
 ^1 15 Aparat (me pjese rrotulluese)
 1 16 Indicating instruments
 ^1 16 Instrumentet treguese
@@ -70,7 +72,9 @@ kodi i ngjyrave i përdorur në industri
 9. Flexible pipe
 9. tub fleksibil
 10a. pipe insulated
+https://blog.gltproducts.com/hubfs/Blog_Images/Pipeline_Insulation.jpg
 10b. pipe not insulated
+https://www.diynot.com/diy/media/untitled.41663/full
 10a. tub i izoluar
 10b. tub i paizoluar
 11. Tracer-heated pipe
@@ -96,6 +100,7 @@ https://www.schwer.com/dynimg/LSBoUAwXOYBVDCvxDghiLNL458s=/0x0:0x0/full-fit-in/5
 https://www.epowermetals.com/wp-content/uploads/2019/09/pipe-coupling.jpg
 5. Bashkim tubash (me shtraf te hapur tub)
 6. Centric reduction
+https://cdn.shopify.com/s/files/1/0265/2815/3659/products/41IyaSVCQ_L_1024x1024.jpg?v=1638769136
 6. reduktues kryesore
 7. Excentric reduction (above)
 7. Reduktimi ekscentrik (sipër)
