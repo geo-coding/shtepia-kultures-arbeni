@@ -133,9 +133,21 @@ https://4.imimg.com/data4/IU/JE/MY-8365839/flexible-connection-pipe-500x500.jpg
 2. sliding support
 - https://www.dipa.de/content/uploads/2017/12/118-B-weiss-600x576.jpg
 - 2. mbështetje rrëshqitëse
-
-
-
+3. Pipe suport
+- https://makepipingeasy.com/wp-content/uploads/2020/12/pipe-clamp-support.png
+- 3. mbeshtetsit e gypave
+4. Pipe hanger
+- 4. mbajtesit e gypave
+- https://www.bindergrp.com/wp-content/uploads/2018/08/Clamps-and-Attachments.png 
+5. Pipe hanger with spring
+- 5. Varëse tubash me susta
+- https://pipingtech.com/wp-content/uploads/2017/07/hanger.jpg
+6. Sliding pipe hanger
+- 6. Varëse tubash rrëshqitëse
+- https://www.dipa.de/content/uploads/2017/12/118-C-weiss-600x576.jpg
+7. Sliding pipe, hanger with guides
+- 7. Tub rrëshqitës, varëse me udhëzues
+- https://www.eaton.com/content/dam/eaton/products/support-systems/pipe-hangers/pipe-guides-and-slides/pipe-guide-series.jpg
 
 
 
