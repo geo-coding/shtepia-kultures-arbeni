@@ -27,62 +27,56 @@ applicable
 
 ## Basic and general symbols
 ### 1Basic symbols
-1 11 Pipes (gypat)
-1 12 Ducts (kanalet)
-1 12 https://images.squarespace-cdn.com/content/v1/5e7314db0444d414213d9c38/1600453257853-9XJK3PSPMEHH2R58JGX6/Motorised+damper+symbol?format=500
-https://www.mccshvac.com/site/wp-content/uploads/air-ducts-1.jpg
-1 13 Control valves Stop valves (i.e. gate valves butterfly valves)
-https://www.zetkama.com/wp-content/uploads/217_1-1.jpg
-^1 13 Valvulat e kontrollit Valvulat e ndalimit (p.sh. valvulat e portës, valvulat flutur)
-1 14 Apparatus(without rotating parts)
-https://cdn.raptorsupplies.com/pub/media/catalog/product/marathon-motors-5kh32gn140x.jpg
-^1 14 Aparat (pa pjesë rrotulluese)
-1 15 Apparatus(with  rotating parts)
-https://www.researchgate.net/profile/Stefania-Serafin/publication/228962554/figure/fig2/AS:669464844570635@1536624265570/The-apparatus-used-in-1-to-measure-tubes-frequencies-and-rotational-velocity.png
-^1 15 Aparat (me pjese rrotulluese)
-1 16 Indicating instruments
-^1 16 Instrumentet treguese
+1.  11 Pipes (gypat)
+- 1. 12 Ducts (kanalet)
+- 1 12 https://images.squarespace-cdn.com/content/v1/5e7314db0444d414213d9c38/1600453257853-9XJK3PSPMEHH2R58JGX6/Motorised+damper+symbol?format=500
+- https://www.mccshvac.com/site/wp-content/uploads/air-ducts-1.jpg
+1.  13 Control valves Stop valves (i.e. gate valves butterfly valves)
+- https://www.zetkama.com/wp-content/uploads/217_1-1.jpg
+- 1.  13 Valvulat e kontrollit Valvulat e ndalimit (p.sh. valvulat e portës, valvulat flutur)
+1. 14 Apparatus(without rotating parts)
+- https://cdn.raptorsupplies.com/pub/media/catalog/product/marathon-motors-5kh32gn140x.jpg
+- 1.  14 Aparat (pa pjesë rrotulluese)
+1. 15 Apparatus(with  rotating parts)
+- https://www.researchgate.net/profile/Stefania-Serafin/publication/228962554/figure/fig2/AS:669464844570635@1536624265570/The-apparatus-used-in-1-to-measure-tubes-frequencies-and-rotational-velocity.png
+- 1 15 Aparat (me pjese rrotulluese)
+1.  16 Indicating instruments
+- 1 16 Instrumentet treguese
 
 ### 2 General symbols
 
 #### 2 1 gypat
 
-1. Contents of pipe: method A: designation by printing the nature of contents
-above or in the line
-1. Përmbajtja e tubit: Metoda A: emërtimi me printim natyra e përmbajtjes sipër
-ose në vijë
-2. Contents of pipe: method B: designation by different lines (examples on the
-left)
-2. Përmbajtja e tubit: metoda B: përcaktimi me vija të ndryshme (shembuj në
-majtas)
-3. Contents of pipe: method C: designation by coloured (x) lines according to the
-colour-code used in the industry
-3. Përmbajtja e tubit: metoda C: përcaktimi me vija(X) me ngjyra sipas
-kodi i ngjyrave i përdorur në industri
+1. Contents of pipe: method A: designation by printing the nature of contents above or in the line
+- 1. Përmbajtja e tubit: Metoda A: emërtimi me printim natyra e përmbajtjes sipër ose në vijë
+2. Contents of pipe: method B: designation by different lines (examples on the left)
+- 2. Përmbajtja e tubit: metoda B: përcaktimi me vija të ndryshme (shembuj në majtas)
+3. Contents of pipe: method C: designation by coloured (x) lines according to the colour-code used in the industry
+- 3. Përmbajtja e tubit: metoda C: përcaktimi me vija(X) me ngjyra sipas kodi i ngjyrave i përdorur në industri
 4. Direction of flow (arrow)
-4. drejtimi i rrjedhjes (strella)
+- 4. drejtimi i rrjedhjes (strella)
 5. Crossing of two pipes without connection
-5. kryqezimi i dy tybave pa u lidhur
+- 5. kryqezimi i dy tybave pa u lidhur
 6. Crossing of two pipes with connection
-6. kryqezimi i dy tybave duke u lidhur
+- 6. kryqezimi i dy tybave duke u lidhur
 7. Branching pipe (Tee)
-7. Tub i degëzimit (Tee)
+- 7. Tub i degëzimit (Tee)
 8. Pipe with slope
-8. gyp me pjerrtesi
+- 8. gyp me pjerrtesi
 9. Flexible pipe
-9. tub fleksibil
-10a. pipe insulated
-https://blog.gltproducts.com/hubfs/Blog_Images/Pipeline_Insulation.jpg
-10b. pipe not insulated
-https://www.diynot.com/diy/media/untitled.41663/full
-10a. tub i izoluar
-10b. tub i paizoluar
+- 9. tub fleksibil
+10. a pipe insulated
+- https://blog.gltproducts.com/hubfs/Blog_Images/Pipeline_Insulation.jpg
+10. b  pipe not insulated
+- https://www.diynot.com/diy/media/untitled.41663/full
+- 10a. tub i izoluar
+- 10b. tub i paizoluar
 11. Tracer-heated pipe
-11. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GSsCCQqcpGtL7GK0FrA7NZ9d6LORI-d67CLQ2xRYy0EQXA0-X3If0RLUWfQ4ELHRwQ&usqp=CAU
-11. Tub i ngrohur me gjurmues (kabllo per te mos lejuar ngrirjen e gypit)
+- 11. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GSsCCQqcpGtL7GK0FrA7NZ9d6LORI-d67CLQ2xRYy0EQXA0-X3If0RLUWfQ4ELHRwQ&usqp=CAU
+- 11. Tub i ngrohur me gjurmues (kabllo per te mos lejuar ngrirjen e gypit)
 12. Pipe with heating or cooling jacket
-12. https://www.researchgate.net/profile/Chan-Bae-Park/publication/264187791/figure/fig7/AS:668225658445832@1536328820422/Water-cooling-jackets-for-110kW-class-IPMSM.jpg
-12. Tub me mbeshtjelles ngrohjeje ose ftohjeje
+- 12. https://www.researchgate.net/profile/Chan-Bae-Park/publication/264187791/figure/fig7/AS:668225658445832@1536328820422/Water-cooling-jackets-for-110kW-class-IPMSM.jpg
+- 12. Tub me mbeshtjelles ngrohjeje ose ftohjeje
 #### PIPE SHOWN IN PLAN
 #### tubi i paraqitur ne plan
 1. pipe socket
