@@ -148,6 +148,127 @@ https://4.imimg.com/data4/IU/JE/MY-8365839/flexible-connection-pipe-500x500.jpg
 7. Sliding pipe, hanger with guides
 - 7. Tub rrëshqitës, varëse me udhëzues
 - https://www.eaton.com/content/dam/eaton/products/support-systems/pipe-hangers/pipe-guides-and-slides/pipe-guide-series.jpg
+8. Rolling pipe support
+- 8. Mbështetja e tubit rrotullues
+- https://www.eaton.com/content/dam/eaton/products/support-systems/pipe-hangers/pipe-rollers-and-supports/b3110-adjustable-steel-yoke-pipe-roller.jpg.transform/default-mobile/image.jpg
+9. Vibration absorber (for machinery)
+- 9. Amortizues dridhjesh (për makineri)
+- https://www.motioncontroltips.com/wp-content/uploads/2015/05/shock-and-vibration-absorbers.jpg
+
+`26 ARMATORES`
+- `26 ARMATORËT`
+
+1. Valve (general)
+- valvule (gjenerale)
+- https://www.thornado.com.au/assets/full/HC-BR-GVFF.jpg?20210204030156
+2. Angle valve
+- 2. valvule ne kende
+- https://assets.hansgrohe.com/mam/celum/celum_assets/154__hpa00620_tif.png?format=HBW24
+3. 3-way valve
+- 3. valvule me 3 hapje
+- https://www.sauter-controls.com/wp-content/uploads/2019/02/423008.jpg
+4. 4-way valve
+- 4. valvule me 4 hapje
+- https://www.schwer.com/dynimg/JdAfryehs_pMIhVPf0U_KIO4fiw=/0x0:0x0/full-fit-in/580x580/filters:no_upscale():cachevalid(2015-06-29T09:52:48)/Documents/Produktbilder/PB_A/A-4BVG.jpg
+5. Valve
+- 5. valvule
+- https://jc-valves.com/wp-content/uploads/2019/11/Globo.png
+6. Gate valve
+- 6. valvula e portes
+- http://www.yuandavalve.ru/data/watermark/20200807/5f2cbe269cf99.jpg
+7. Stop cock
+- 7. rubinete
+- https://5.imimg.com/data5/VY/SS/MY-3471746/brass-stop-cock-valve-500x500.jpg
+8. Pressure reducing valve
+- 8. valvule redukuse e presionit
+- https://www.tlv.com/global/images/steam_theory/pressure-reducing-valves-for-steam/0705cosr.gif
+9. Non-return valve (check valve)
+- 9. valvule jo kthyese (valvule kontrolluese)
+- https://www.globustechnomech.com/wp-content/uploads/2019/07/check-valve03.jpg
+10. Spring-operated safety valve
+- 10. Valvul sigurie me susta
+- https://learnmech.com/wp-content/uploads/2019/06/Spring-loaded-safety-valve.jpg
+11. Weight-operated safety valve
+- 11 Valvula e sigurisë që funksionon me peshë
+- https://5.imimg.com/data5/SELLER/Default/2020/12/MU/QU/NV/29885238/dead-weighted-safety-valve-500x500.jpg
+ 12. Butterfly stop valve
+ - 12. valvule ndaluese (fluter)
+ - https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/110327-F-PM645-011_butterfly_check_valve.jpg/1200px-110327-F-PM645-011_butterfly_check_valve.jpg
+13. Butterfly check valve
+- 13 valvule kontrolli (fluter)
+- https://image.made-in-china.com/2f0j00vjpTIQroJdzL/Butterfly-Check-Valve-H77X-16-DN40-DN300-.jpg
+14. Butterfly throttling valve
+- 14. valvule mbyllese (flutur)
+- https://www.n-c.com/includes/work/image_cache/png/17eaad500c73ac6f2ca208b747de183c.thumb.png
+15. Pipe vent air eliminator
+- 15. ventilues i tubit, eliminues i ajrit
+- https://d3501hjdis3g5w.cloudfront.net/images/products/zoom/pv125-5.jpg
+16. Funnel
+- 16. hinke
+- https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kitchen_Funnel.jpg/640px-Kitchen_Funnel.jpg
+17. Sight glass
+- 17. xham transparent
+- https://www.bacbrewing.com/695-large_default/sight-glass.jpg
+18. Steam trap
+- 18. bllokues i avullit
+- https://www.tlv.com/global/images/steam_theory/what-is-a-steam-trap/0611_1a2a_290x140.gif
+19. Strainer
+- 19. sitë
+- https://i2.wp.com/www.theprocesspiping.com/wp-content/uploads/2017/10/strainer-FI-compressed.jpg?fit=284%2C235&ssl=1
+
+`27 Apparatus`
+- `27 aparatet`
+1. Apparatus without rotating parts (with exact description)
+- 1.Aparat pa pjesë rrotulluese (me përshkrim të saktë) 
+- https://www.mdpi.com/metals/metals-11-00400/article_deploy/html/images/metals-11-00400-g001.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
