@@ -86,43 +86,59 @@ https://www.diynot.com/diy/media/untitled.41663/full
 #### PIPE SHOWN IN PLAN
 #### tubi i paraqitur ne plan
 1. pipe socket
-1. folje e tubit (shtraf lidhes i gypit)
+- 1. folje e tubit (shtraf lidhes i gypit)
 2. flanged connection
-https://www.burkert.com/var/harmony/storage/images/imagefull/B/B/S/2732704-BBS06-001-A-Aseptic-FlangeDIN11864_thumb_imagefull.png?v=
-2. lidhje me fllanzh
+- https://www.burkert.com/var/harmony/storage/images/imagefull/B/B/S/2732704-BBS06-001-A-Aseptic-FlangeDIN11864_thumb_imagefull.png?v=
+- 2. lidhje me fllanzh
 3. stop flange
-https://5.imimg.com/data5/SELLER/Default/2021/5/FN/OC/SG/4961284/hdpe-stop-flange-500x500.JPG
-3. flanzha ndaluese (jo kthyese)
+ - https://5.imimg.com/data5/SELLER/Default/2021/5/FN/OC/SG/4961284/hdpe-stop-flange-500x500.JPG
+- 3. flanzha ndaluese (jo kthyese)
 4. Screwed connection, unron
-https://www.schwer.com/dynimg/LSBoUAwXOYBVDCvxDghiLNL458s=/0x0:0x0/full-fit-in/580x580/filters:no_upscale():cachevalid(2014-03-06T10:23:57)/Documents/Produktbilder/PB_MI/MI-Miro.jpg
-4. Lidhje me vidhos, unron (me shtraf)
+- https://www.schwer.com/dynimg/LSBoUAwXOYBVDCvxDghiLNL458s=/0x0:0x0/full-fit-in/580x580/filters:no_upscale():cachevalid(2014-03-06T10:23:57)/Documents/Produktbilder/PB_MI/MI-Miro.jpg
+- 4. Lidhje me vidhos, unron (me shtraf)
 5. Pipe coupling
-https://www.epowermetals.com/wp-content/uploads/2019/09/pipe-coupling.jpg
-5. Bashkim tubash (me shtraf te hapur tub)
+- https://www.epowermetals.com/wp-content/uploads/2019/09/pipe-coupling.jpg
+- 5. Bashkim tubash (me shtraf te hapur tub)
 6. Centric reduction
-https://cdn.shopify.com/s/files/1/0265/2815/3659/products/41IyaSVCQ_L_1024x1024.jpg?v=1638769136
-6. reduktues kryesore
+- https://cdn.shopify.com/s/files/1/0265/2815/3659/products/41IyaSVCQ_L_1024x1024.jpg?v=1638769136
+- 6. reduktues kryesore
 7. Excentric reduction (above)
-7. Reduktimi ekscentrik (sipër)
+- https://ars.els-cdn.com/content/image/3-s2.0-B9780128098950000041-f04-50-9780128098950.jpg
+- 7. Reduktimi ekscentrik (sipër)
 8. Excentric reduction (below)
-8. Reduktimi ekscentrik (poshte)
+- 8. Reduktimi ekscentrik (poshte)
 
 `2.4 EXPANSION JOINTS, Absorbers`
 `2.4 LIDHJE ZGJERUESE, Absorbues`
 1. Expansion joint (general)
-1. http://www.general-rubber.com/images/products/1015/1015-12%20no%20flng-image.jpg
-1. Lidhja e zgjerimit (e përgjithshme per zgjatje lidhjes)
+-1. http://www.general-rubber.com/images/products/1015/1015-12%20no%20flng-image.jpg
+- 1. Lidhja e zgjerimit (e përgjithshme per zgjatje lidhjes)
 2. U-bend
-2. U-perkulje, lidhje ne U
-2. https://5.imimg.com/data5/WX/OL/MY-3784278/u-bend-500x500.jpg
+- 2. U-perkulje, lidhje ne U
+- 2. https://5.imimg.com/data5/WX/OL/MY-3784278/u-bend-500x500.jpg
 3. Slip joint
-3. Lidhje rrëshqitëse (me tub te hapur te rrafshet)
-3. https://cdn3.volusion.com/csvry.aspxr/v/vspfiles/photos/RM-SJ-3-SS-2.jpg
+- 3. Lidhje rrëshqitëse (me tub te hapur te rrafshet)
+-3. https://cdn3.volusion.com/csvry.aspxr/v/vspfiles/photos/RM-SJ-3-SS-2.jpg
 4. Bellow expansion joint (axial) or articulated
-4. https://www.macoga.com/frontend/img/models/axial-tied-MWT@1x.png?v=d13bb5cc
-
-
-
+-4. https://www.macoga.com/frontend/img/models/axial-tied-MWT@1x.png?v=d13bb5cc
+5. Vibration absorber (for piping)
+- https://images-na.ssl-images-amazon.com/images/I/412BdsaW1YL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg
+._
+- 5. Amortizues dridhjesh (për tubacione)
+6. Sound attenuator
+- https://tofee.com.cn/wp-content/uploads/2019/10/1-Rectangular-Duct-Sound-Attenuator.jpg00.jpg
+6. amortizues i zerit
+- 7. Flexible connection
+https://4.imimg.com/data4/IU/JE/MY-8365839/flexible-connection-pipe-500x500.jpg
+- 7. lidhje fleksibile
+`2.5 SUPORTS`
+`2.5 mbeshtetjet, shtesat`
+1. Anchor point
+- https://www.walraven.com/content/uploads/sites/11/2018/12/Thermal_expansion_Page_08_Image_0009.jpg
+- 1. Pika ankerimi
+2. sliding support
+- https://www.dipa.de/content/uploads/2017/12/118-B-weiss-600x576.jpg
+- 2. mbështetje rrëshqitëse
 
 
 
