@@ -221,8 +221,24 @@ https://4.imimg.com/data4/IU/JE/MY-8365839/flexible-connection-pipe-500x500.jpg
 1. Apparatus without rotating parts (with exact description)
 - 1.Aparat pa pjesë rrotulluese (me përshkrim të saktë) 
 - https://www.mdpi.com/metals/metals-11-00400/article_deploy/html/images/metals-11-00400-g001.png
+2. Apparatus with rotating parts (with exact descríption)
+- 2. Aparat me pjesë rrotulluese (me përshkrim të saktë)  
+- https://www.1-act.com/wp-content/uploads/2013/11/Rotating-Heat-Figure-52-702x394.png
+3. Pump
+- 3. pmumpa
+- https://www.inverter.com/images/thumbs/0000811_4-hp-horizontal-centrifugal-pump_550.jpeg
+4. Fan
+- 4. ventillatore
+- https://www.ubuy.com.tr/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzE1NTN1RVM3NEwuX0FDX1NMMTUwMF8uanBn.jpg
+5. Compressor
+- 5. compresori
+- https://www.pomonavalleyplumbinghvac.com/wp-content/uploads/2016/12/HVAC-Compressor.jpg
+6. Motor
+- 6. Motorri
+- https://www.thetrainingcenterofairconditioningandheating.com/wp-content/uploads/2019/11/shutterstock_701853202.jpg
 
-
+`28 MEASURING AND SENSING ELEMENT`
+- `28 MEASURING AND SENSING ELEMENT`
 
 
 
