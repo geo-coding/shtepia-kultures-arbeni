@@ -243,9 +243,14 @@ https://4.imimg.com/data4/IU/JE/MY-8365839/flexible-connection-pipe-500x500.jpg
 
 
 
-
-
-
+## HVAC
+# equipment
+ HVAC equipment such as heating systems, air-conditioning systems, ventilation
+ fans, and dehumidifiers.
+# distribution
+The distribution system mainly varies according to the refrigerant type and the
+delivering method such as air handling equipment, fan coils, air ducts, and
+water pipes
 
 
 
